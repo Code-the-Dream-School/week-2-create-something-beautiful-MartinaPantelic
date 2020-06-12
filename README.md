@@ -41,3 +41,5 @@ accessibility  arttr
 linkvi za menjanje stranice
 linkovi za skakanje po stranici
 tranzicije
+
+float str
